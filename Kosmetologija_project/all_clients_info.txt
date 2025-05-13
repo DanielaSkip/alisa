@@ -1,0 +1,89 @@
+=================================================
+            Clients List               
+=================================================
+
+Client 1:
+Client: Dinka Skibidi
+Age: 29
+Allergy: No allergy
+Service: Facial Cleansing
+Duration: 40 min
+Rate: 1.8 EUR/min
+Zones: []
+Skin Type: Sensitive
+Cost: 72.0 EUR
+
+Service: Relax Massage
+Duration: 60 min
+Rate: 2.2 EUR/min
+Zones: []
+Intensity: Strong
+Type: Therapeutic
+Cost: 132.0 EUR
+
+Service: Acid Peeling
+Duration: 45 min
+Rate: 2.5 EUR/min
+Zones: []
+Acidity Level: 3.2 pH
+Type: Peeling
+Cost: 112.5 EUR
+
+
+Client 2:
+Client: Sergey Ivanov
+Age: 35
+Allergy: Lactose intolerant
+Service: Deep Pore Cleansing
+Duration: 50 min
+Rate: 2.0 EUR/min
+Zones: []
+Skin Type: Oily
+Cost: 100.0 EUR
+
+Service: Sport Massage
+Duration: 70 min
+Rate: 2.8 EUR/min
+Zones: []
+Intensity: Medium
+Type: Recovery
+Cost: 196.0 EUR
+
+Service: Vitamin C Treatment
+Duration: 30 min
+Rate: 2.2 EUR/min
+Zones: []
+Acidity Level: 2.9 pH
+Type: Hydration
+Cost: 66.0 EUR
+
+
+Client 3:
+Client: Pipka Kurjanova
+Age: 42
+Allergy: Pollen allergy
+Service: Anti-Aging Facial
+Duration: 52 min
+Rate: 2.3 EUR/min
+Zones: []
+Skin Type: Dry
+Cost: 119.6 EUR
+
+Service: Lymphatic Drainage
+Duration: 50 min
+Rate: 2.6 EUR/min
+Zones: []
+Intensity: Gentle
+Type: Detox
+Cost: 130.0 EUR
+
+Service: Enzyme Therapy
+Duration: 40 min
+Rate: 2.7 EUR/min
+Zones: []
+Acidity Level: 3.5 pH
+Type: Regeneration
+Cost: 108.0 EUR
+
+=================================================
+Data successfully saved to the file: all_clients_info.txt

@@ -1,0 +1,27 @@
+Client: Anna Petrova
+Age: 29
+Allergy: No allergy
+
+Service: Facial Cleansing
+Duration: 40 min
+Rate: 1.8 EUR/min
+Zones: [Forehead, Cheeks]
+Skin Type: Sensitive
+Cost: 72.0 EUR
+
+Service: Relax Massage
+Duration: 60 min
+Rate: 2.2 EUR/min
+Zones: [Back, Shoulders]
+Intensity: Strong
+Type: Therapeutic
+Cost: 132.0 EUR
+
+Service: Acid Peeling
+Duration: 45 min
+Rate: 2.5 EUR/min
+Zones: [Face, Neck]
+Acidity Level: 3.2 pH
+Type: Peeling
+Cost: 112.5 EUR
+

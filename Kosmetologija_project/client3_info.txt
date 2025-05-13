@@ -1,0 +1,27 @@
+Client: Elena Smirnova
+Age: 42
+Allergy: Pollen allergy
+
+Service: Anti-Aging Facial
+Duration: 55 min
+Rate: 2.3 EUR/min
+Zones: [Eyes, Neck]
+Skin Type: Dry
+Cost: 126.49999999999999 EUR
+
+Service: Lymphatic Drainage
+Duration: 50 min
+Rate: 2.6 EUR/min
+Zones: [Legs, Abdomen]
+Intensity: Gentle
+Type: Detox
+Cost: 130.0 EUR
+
+Service: Enzyme Therapy
+Duration: 40 min
+Rate: 2.7 EUR/min
+Zones: [Face, Chest]
+Acidity Level: 3.5 pH
+Type: Regeneration
+Cost: 108.0 EUR
+

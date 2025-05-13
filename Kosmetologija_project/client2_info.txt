@@ -1,0 +1,27 @@
+Client: Sergey Ivanov
+Age: 35
+Allergy: Lactose intolerant
+
+Service: Deep Pore Cleansing
+Duration: 50 min
+Rate: 2.0 EUR/min
+Zones: [Nose, Chin]
+Skin Type: Oily
+Cost: 100.0 EUR
+
+Service: Sport Massage
+Duration: 70 min
+Rate: 2.8 EUR/min
+Zones: [Legs, Back]
+Intensity: Medium
+Type: Recovery
+Cost: 196.0 EUR
+
+Service: Vitamin C Treatment
+Duration: 30 min
+Rate: 2.2 EUR/min
+Zones: [Face]
+Acidity Level: 2.9 pH
+Type: Hydration
+Cost: 66.0 EUR
+
